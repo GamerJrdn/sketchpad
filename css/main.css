@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+}
+
+#resetBtn{
+  display: block;
+  margin: 5% auto;
+}
+
+#container{
+  display: inline-block;
+  margin: 0 auto;
+  width: 480px;
+  height: 480px;
+  border: 1px solid black;
+  /*border-top: 1px solid black;*/
+}
+
+.sketchgrid{
+  /*border-bottom: 1px solid black;
+  border-right: 1px solid black;*/
+  display: block;
+  float: left;
+  color: #fff;
+}
+
+.clearboth{
+  float: none;
+  clear: both;
+}
+
+.black{
+  background-color: black;
+}
